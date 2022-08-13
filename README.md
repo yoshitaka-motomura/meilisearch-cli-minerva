@@ -1,0 +1,2 @@
+# Minerva  
+meilisearch simple cli
